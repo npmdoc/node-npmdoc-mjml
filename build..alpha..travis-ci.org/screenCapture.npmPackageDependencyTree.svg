@@ -72,7 +72,7 @@
 <tspan x="10" y="1114">  │ │ ├── path-is-absolute@1.0.1 </tspan>
 <tspan x="10" y="1130">  │ │ └─┬ readdirp@2.1.0 </tspan>
 <tspan x="10" y="1146">  │ │   ├── graceful-fs@4.1.11 </tspan>
-<tspan x="10" y="1162">  │ │   ├─┬ readable-stream@2.2.8 </tspan>
+<tspan x="10" y="1162">  │ │   ├─┬ readable-stream@2.2.9 </tspan>
 <tspan x="10" y="1178">  │ │   │ ├── buffer-shims@1.0.0 </tspan>
 <tspan x="10" y="1194">  │ │   │ ├── core-util-is@1.0.2 </tspan>
 <tspan x="10" y="1210">  │ │   │ ├── isarray@1.0.0 </tspan>
